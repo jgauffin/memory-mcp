@@ -1,0 +1,26 @@
+[
+  {
+    "name": "database-url",
+    "category": "config",
+    "description": "Primary database connection string",
+    "value": "postgres://localhost:5432/myapp"
+  },
+  {
+    "name": "api-key",
+    "category": "config",
+    "description": "External API key for weather service",
+    "value": "sk-weather-abc123"
+  },
+  {
+    "name": "color-palette",
+    "category": "design",
+    "description": "Brand colors for the UI",
+    "value": "#1a1a2e, #16213e, #0f3460, #e94560"
+  },
+  {
+    "name": "tech-stack",
+    "category": "architecture",
+    "description": "Chosen technology stack",
+    "value": "TypeScript, PostgreSQL, OpenLayers"
+  }
+]
