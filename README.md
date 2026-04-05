@@ -1,5 +1,7 @@
 # Relax! Memory MCP
 
+**Archived. Claude can now use multiple files for memories.**
+
 A persistent memory server for AI agents, built on the [Model Context Protocol](https://modelcontextprotocol.io/).
 
 ## Why this server?
